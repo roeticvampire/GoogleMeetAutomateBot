@@ -16,8 +16,8 @@ public class GoogleMeetAutomate {
 static WebDriver webDriver;
 static String password="";
 static String emailId="";
-static String meetId="https://meet.google.com/myw-jfnj-okc";
-static String classTiming="2021-01-12 09:59:40";
+static String meetId="";
+static String classTiming="";
 static int thresholdLimit=45;   //usually it should be 45 to 50
 static int leaveLimit=20;   //usually 10 to 15
 static boolean classBegun=false;
