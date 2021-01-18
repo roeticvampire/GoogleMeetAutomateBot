@@ -136,6 +136,7 @@ static Scanner sc=new Scanner(System.in);
 
         }
     System.out.println("Okay nigga, that was a really boring class xD");
+        //Don't call me racist, that was just a random statement!
 quitMeet();
 Thread.sleep(2000);
 
